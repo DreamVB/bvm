@@ -1,5 +1,5 @@
 ;Vriable test
-;X = Y + 1
+;Y = X + 16
 ; X = 128
 PUSH 128
 STORE X
