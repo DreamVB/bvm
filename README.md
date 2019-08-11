@@ -17,8 +17,9 @@ You can assemble the program examples using the assembler included then execute 
 
 <pre>
 <code>
-  <h4>On Windows</h4>
-  Doubble click on the build.bat file
-  <h4>On Linux use the MakeFile</h4>
+  <b>Building on Windows</b>
+  <code>Doubble click on the build.bat file</code>
+  <b>Building on Linux</b>
+  <code>Open a termail and in the projects folder and typem Make</code>
 </code>
 </pre>
