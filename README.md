@@ -12,3 +12,12 @@ You can assemble the program examples using the assembler included then execute 
   Variables there are 8 for now and are all global
 </code>
 </pre>
+
+<h3>Building the program</h3>
+
+<h2>Bulding on Windows</h2>
+<pre>
+<code>
+  Doubble click on the build.bat file
+</code>
+</pre>
