@@ -1,6 +1,6 @@
 ;Program to add two values
 
-;Push 120 onto the stack
+;Push 100 onto the stack
 Push 100
 
 ;Push 100 on the stack
