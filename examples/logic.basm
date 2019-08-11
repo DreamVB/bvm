@@ -1,0 +1,32 @@
+;Logic Examples
+
+;AND Example
+PUSH 16
+PUSH 255
+AND
+PRINT_I
+
+;OR Example
+PUSH 23
+PUSH 9
+OR
+PRINT_I
+
+;XOR Example
+PUSH 'A'
+PUSH 4
+XOR
+PRINT_C
+
+;Print new line
+PUSH 10
+PRINT_C
+
+;MOD Example
+PUSH 255
+PUSH 16
+MOD
+PRINT_I
+
+;End Program
+HLT

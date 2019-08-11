@@ -1,0 +1,4 @@
+;Beep test
+PUSH 7
+PRINT_C
+HLT

@@ -1,0 +1,16 @@
+;Program to add two values
+
+;Push 120 onto the stack
+Push 100
+
+;Push 100 on the stack
+PUSH 100
+
+;Add the top two values on the stack, Push back the result onto the stack
+ADD
+
+;Print the value on the stack
+PRINT_I
+
+;Exit to system
+HLT

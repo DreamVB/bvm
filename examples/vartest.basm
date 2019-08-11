@@ -1,0 +1,16 @@
+;Vriable test
+;X = Y + 1
+; X = 128
+PUSH 128
+STORE X
+LOAD X
+
+; Y = X
+STORE Y
+LOAD Y
+
+; Y + 16
+PUSH 16
+ADD
+PRINT_I
+HLT
