@@ -6,10 +6,10 @@ You can assemble the program examples using the assembler included then execute 
 
 <h3>Features so far</h3>
 
-<pre>
+<pre>	
 <code>
   OPCODES include PUSH,POP,AND,SUB,MUL,DIV,AND,OR,XOR,MOD,STORE,LOAD,PRINT_I,PRINT_C
-  Variables there are 8 for now and are all global
+  Variables well I call them registers there are eight for now, And there all global at this point.
 </code>
 </pre>
 
@@ -18,9 +18,10 @@ You can assemble the program examples using the assembler included then execute 
 <pre>
 <code>
   <b>Building on Windows</b>
-  Doubble click on the build.bat file.
+  Double click on the build.bat file.
   
   <b>Building on Linux</b>
-  Open a termail and in the projects folder and typem Make.
+  Open the bash terminal then from the project folder type Make.
 </code>
 </pre>
+
