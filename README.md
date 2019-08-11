@@ -13,11 +13,12 @@ You can assemble the program examples using the assembler included then execute 
 </code>
 </pre>
 
-<h3>Building the program</h3>
+<h3>Building The Project</h3>
 
-<h2>Bulding on Windows</h2>
 <pre>
 <code>
+  <h4>On Windows</h4>
   Doubble click on the build.bat file
+  <h4>On Linux use the MakeFile</h4>
 </code>
 </pre>
