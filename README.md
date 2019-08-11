@@ -8,6 +8,7 @@ You can assemble the program examples using the assembler included then execute 
 
 <pre>
 <code>
-  OPCODES include PUSH,POP,AND,SUB,MUL,DIV,AND,OR,XOR,MOD,STORE,LOAD,PRINT_I,PRINT_C 
+  OPCODES include PUSH,POP,AND,SUB,MUL,DIV,AND,OR,XOR,MOD,STORE,LOAD,PRINT_I,PRINT_C
+  Variables there are 8 for now and are all global
 </code>
 </pre>
